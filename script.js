@@ -1,6 +1,7 @@
 function mincost(arr)
 { 
 //write your code here
+	let cost=0,sum=0;
 		function sort(arr){arr.sort((a,b)=>{return a-b;});}
 	while (arr.length>1){
 	    sort(arr);
