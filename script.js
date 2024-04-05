@@ -12,10 +12,9 @@ function mincost(arr)
 	arr.unshift(cost);
 }
 
-	}
 
 // return the min cost
-console.log(sum);
+return sum;
   
 }
 
